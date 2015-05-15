@@ -1,3 +1,6 @@
+This is a backup from Google Code in case no one did.
+
+
 shimeji-ee
 
 Shimeji English Enhanced
