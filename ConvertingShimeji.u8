@@ -37,6 +37,8 @@ To set up the "ConvertShimeji" python script:
 	
 	e. Copy and paste the following code into the file, then save the file.  Afterwards, the script will be ready to use as explained in the previous section:
 	
+# -*- coding: UTF-8 -*-
+
 editor.replace("<マスコット ", "<Mascot ")
 editor.replace("<動作リスト>", "<ActionList>")
 editor.replace("<動作 ", "<Action ")
